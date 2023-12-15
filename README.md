@@ -50,7 +50,11 @@ RESULT AND FINDINGS
 - 156 employee that rarely travel were affected
 
   ## DASHBORD
-  p
+  ![Uploading HR ATTRITION DASHBO![EMPLOYEE WELLNESS](https://github.com/Temitopeadep/HR-EMPLOYEE-ATTRITION-DASHBOARD/assets/142262047/fd4ce6ac-27ef-4237-92cd-6187b239ba71)
+!![Uploading TURNOVER ANALYSIS I.png…]()
+[Uploading DEMOGRAPHICS.png…]()
+ARD.png…]()
+
 
 ## RECOMMENDATION
 - Investigation should be conducted as to while the employee performance rating is low
