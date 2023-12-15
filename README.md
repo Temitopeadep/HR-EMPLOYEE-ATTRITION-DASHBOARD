@@ -50,10 +50,13 @@ RESULT AND FINDINGS
 - 156 employee that rarely travel were affected
 
   ## DASHBORD
-  ![Uploading HR ATTRITION DASHBO![EMPLOYEE WELLNESS](https://github.com/Temitopeadep/HR-EMPLOYEE-ATTRITION-DASHBOARD/assets/142262047/fd4ce6ac-27ef-4237-92cd-6187b239ba71)
-!![Uploading TURNOVER ANALYSIS I.png…]()
-[Uploading DEMOGRAPHICS.png…]()
-ARD.png…]()
+
+![HR ATTRITION DASHBOARD](https://github.com/Temitopeadep/HR-EMPLOYEE-ATTRITION-DASHBOARD/assets/142262047/d2691f57-c44a-4abd-b057-2acb4fd7fe48)
+![DEMOGRAPHICS](https://github.com/Temitopeadep/HR-EMPLOYEE-ATTRITION-DASHBOARD/assets/142262047/f7787146-965a-4b50-9ef4-008f2246ddeb)
+![TURNOVER ANALYSIS I](https://github.com/Temitopeadep/HR-EMPLOYEE-ATTRITION-DASHBOARD/assets/142262047/2ec65a1f-c962-4aac-8f25-b13141f1fc29)
+![TURNOVER ANALYSIS II](https://github.com/Temitopeadep/HR-EMPLOYEE-ATTRITION-DASHBOARD/assets/142262047/e30c7cf8-15c4-414d-9785-e852c2993f5a)
+![EMPLOYEE WELLNESS](https://github.com/Temitopeadep/HR-EMPLOYEE-ATTRITION-DASHBOARD/assets/142262047/5e7dc510-13cc-48be-9238-bb28eb8e2c14)
+
 
 
 ## RECOMMENDATION
