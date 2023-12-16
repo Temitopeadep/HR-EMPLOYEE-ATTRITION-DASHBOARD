@@ -3,7 +3,6 @@
 ## PROJECT OVERVIEW
 The HR employee attrition report will help HR to generate insights that will reduce employee attrition
 
-![DEMOGRAPHICS](https://github.com/Temitopeadep/HR-EMPLOYEE-ATTRITION-DASHBOARD/assets/142262047/2f0e5904-388b-4ac7-b8a3-b96731367dc2)
 
 ## DATA SOURCE
 Meriskill
