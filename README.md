@@ -22,7 +22,7 @@ All data cleaning and transformation were carried out in Excel:
 ## Data Analysis  
 
 ### Demographics  
-Summarized employee statistics including age group, gender, distance from home, and marital status. Provided insights into workforce diversity and commuting patterns for informed decision-making.  
+Summarized employee statistics, including age group, gender, distance from home, and marital status. Provided insights into workforce diversity and commuting patterns for informed decision-making.  
 
 ### Turnover Analysis I  
 Offered insights into employee attrition by department, job role, business travel, and tenure in the current role. Helped identify areas needing better workforce management and retention strategies.  
@@ -31,7 +31,7 @@ Offered insights into employee attrition by department, job role, business trave
 Explored attrition by job level, overtime, performance rating, monthly income, and attrition increase levels. Provided critical insights for effective HR strategies and decision-making.  
 
 ### Employee Wellness  
-Analyzed employee wellness factors including monthly income, hourly rate, relationship satisfaction, performance rating, environmental fit, job involvement, and work-life balance. Highlighted insights to guide HR in developing employee-friendly policies.  
+Analyzed employee wellness factors, including monthly income, hourly rate, relationship satisfaction, performance rating, environmental fit, job involvement, and work-life balance. Highlighted insights to guide HR in developing employee-friendly policies.  
 
 ## Results and Findings  
 - Total employees: 1,470  
