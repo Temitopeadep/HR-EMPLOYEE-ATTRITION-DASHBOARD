@@ -1,72 +1,73 @@
-# HR-EMPLOYEE-ATTRITION-DASHBOARD
+# HR-EMPLOYEE-ATTRITION-DASHBOARD  
 
-## PROJECT OVERVIEW
-The HR employee attrition report will help HR to generate insights that will reduce employee attrition
+## Project Overview  
+This HR Employee Attrition Dashboard was developed to help HR professionals generate actionable insights that can reduce employee attrition and improve workforce retention strategies.  
 
+## Data Source  
+- Meriskill  
 
-## DATA SOURCE
-Meriskill
+## Tools  
+- Excel: Data Cleaning and Transformation  
+- Tableau: Data Transformation, Exploratory Analysis, and Visualization  
 
-## TOOLS
-- Excel: Data  Cleaning and Transformation
-- Tableau: Transformation, Exploratory and Visualization
+## Data Cleaning  
+All data cleaning and transformation were carried out in Excel:  
+1. Removed redundant columns  
+2. Renamed columns for clarity  
+3. Dropped duplicate records  
+4. Cleaned inconsistent entries  
+5. Removed missing (NaN) values  
+6. Performed data transformation for analysis readiness  
 
-## DATA CLEANING
-Data Cleaning: all cleaning and transformation were done using excel
-1. Deleting redundant columns
-2. Renaming columns
-3. Dropping duplicates
-4. Cleaning columns
-5. Removing NaN value
-5. Transformation
+## Data Analysis  
 
-## DATA ANALYSIS
-DEMOGRAPHICS:
-A demographics report summarizes employee statistics including age group, gender, distance from home, and marital status providing insights into workforce diversity and commuting patterns for informed decision making
+### Demographics  
+Summarized employee statistics including age group, gender, distance from home, and marital status. Provided insights into workforce diversity and commuting patterns for informed decision-making.  
 
-TURNOVER ANALYSIS I:
-The turnover analysis I report provides insights into employee attrition including departure by departments, job role affected, business travel impact and total years in the current work role adding in workforce management and retention strategies.
+### Turnover Analysis I  
+Offered insights into employee attrition by department, job role, business travel, and tenure in the current role. Helped identify areas needing better workforce management and retention strategies.  
 
-TURNOVER ANALYSIS II:
-A turnover analysis II report consolidate employee data featuring attrition by job level, overtime performance rating, monthly income and attrition increase level offering critical insights for effective HR strategies and decision-making
+### Turnover Analysis II  
+Explored attrition by job level, overtime, performance rating, monthly income, and attrition increase levels. Provided critical insights for effective HR strategies and decision-making.  
 
-EMLPOYEE WELLNESS:
-Employee wellness report average monthly income, average hourly rate, attrition by relationship satisfaction, total attrition by performance rating, attrition by enviromental status, attrition by job involvement and attrition by work life balance, the will help HR to develop insights that will be favorable to employee wellness.
+### Employee Wellness  
+Analyzed employee wellness factors including monthly income, hourly rate, relationship satisfaction, performance rating, environmental fit, job involvement, and work-life balance. Highlighted insights to guide HR in developing employee-friendly policies.  
 
-## RESUSULT AND FINDINGS
-RESULT AND FINDINGS
-- There were 1470 employee
-- Attrition affected 237 of the employee
-- Employee that stay nearby office were majorly affected (144 of 237)
-- Singles were affected the most (61%)
-- Male employee has hghest number of attrition
-- Employees with moderate job inolvement were affected the most
-- 115 of the employee attrition was by environmental status
-- 112 employee were not satisfied with the job
-- Employee that were promoted as at when due was affected more
-- Average Monthly income is 6503
-- Average Hourly rate is 65.89
-- 84.3% of total employee attrition performance rating is low
-- Entry level employee were mostly affected
-- 156 employee that rarely travel were affected
+## Results and Findings  
+- Total employees: 1,470  
+- Total attrition: 237 employees  
+- Employees living near the office were most affected (144 of 237)  
+- Single employees recorded the highest attrition (61%)  
+- Male employees had the highest number of attrition cases  
+- Employees with moderate job involvement were most affected  
+- 115 attritions linked to environmental status  
+- 112 employees reported job dissatisfaction  
+- Employees promoted on time were affected more  
+- Average Monthly Income: 6,503  
+- Average Hourly Rate: 65.89  
+- 84.3% of employees who left had low performance ratings  
+- Entry-level employees were most affected  
+- 156 employees who rarely traveled were impacted  
 
-  ## DASHBORD
+## Dashboard Visuals  
 
-![HR ATTRITION DASHBOARD](https://github.com/Temitopeadep/HR-EMPLOYEE-ATTRITION-DASHBOARD/assets/142262047/27d5d096-e1e0-4bd3-8fc9-ac95251a03b9)
+![HR ATTRITION DASHBOARD](https://github.com/Temitopeadep/HR-EMPLOYEE-ATTRITION-DASHBOARD/assets/142262047/27d5d096-e1e0-4bd3-8fc9-ac95251a03b9)  
 
-![DEMOGRAPHICS](https://github.com/Temitopeadep/HR-EMPLOYEE-ATTRITION-DASHBOARD/assets/142262047/c19d310b-d177-4f9a-83d4-54275d3ea20c)
+![DEMOGRAPHICS](https://github.com/Temitopeadep/HR-EMPLOYEE-ATTRITION-DASHBOARD/assets/142262047/c19d310b-d177-4f9a-83d4-54275d3ea20c)  
 
-![TURNOVER ANALYSIS I](https://github.com/Temitopeadep/HR-EMPLOYEE-ATTRITION-DASHBOARD/assets/142262047/f9e1866f-cb43-4f7e-af52-80adc991c412)
+![TURNOVER ANALYSIS I](https://github.com/Temitopeadep/HR-EMPLOYEE-ATTRITION-DASHBOARD/assets/142262047/f9e1866f-cb43-4f7e-af52-80adc991c412)  
 
-![TURNOVER ANALYSIS II](https://github.com/Temitopeadep/HR-EMPLOYEE-ATTRITION-DASHBOARD/assets/142262047/2846844a-f6f9-4064-b2e4-a1be16560733)
+![TURNOVER ANALYSIS II](https://github.com/Temitopeadep/HR-EMPLOYEE-ATTRITION-DASHBOARD/assets/142262047/2846844a-f6f9-4064-b2e4-a1be16560733)  
 
-![EMPLOYEE WELLNESS](https://github.com/Temitopeadep/HR-EMPLOYEE-ATTRITION-DASHBOARD/assets/142262047/af51ca2f-9154-4964-b5a1-cc74a6f36e20)
+![EMPLOYEE WELLNESS](https://github.com/Temitopeadep/HR-EMPLOYEE-ATTRITION-DASHBOARD/assets/142262047/af51ca2f-9154-4964-b5a1-cc74a6f36e20)  
 
+## Recommendations  
+- Investigate reasons behind low performance ratings across employees.  
+- Review organizational structure and policies affecting single male employees.  
+- Ensure business travel opportunities are more evenly distributed among staff.  
 
-## RECOMMENDATION
-- Investigation should be conducted as to while the employee performance rating is low
-- Organization structure is not favorable to the single male employee, this should be looked into
-- Business travel should be equally distributted among the employee
+---
+This project demonstrates how Tableau can transform HR data into actionable insights that support employee engagement, wellness, and retention strategies.  
 
 [Tableau Public](https://public.tableau.com/app/profile/temitope.adepoju/viz/HREMPLOYEEATTRITIONDASHBOARD/PAGE1)
 [Linkedin](www.linkedin.com/in/temitope-elizabeth-adepoju-25bb40160)
